@@ -1,4 +1,4 @@
 ListenNewsServer
 ================
 
-A server to maintain news, power by Go.
+A server to maintain news. Powered by Go.
